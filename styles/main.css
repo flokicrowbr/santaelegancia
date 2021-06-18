@@ -1016,7 +1016,7 @@ font-family: 'Merriweather', sans-serif;
   border-color: #ffffff;
 }
 .pretitle.left {
-  text-align: left;
+  text-align: center;
   color: #b59472;
 }
 .pretitle.left:before {
@@ -1119,10 +1119,11 @@ font-family: 'Merriweather', sans-serif;
   }
 }
 .title.left-horizontal {
-  text-align: left;
+  text-align: center;
   font-weight: 700;
   margin-top: 18px;
-  margin-left: 11px;
+  margin-left: 35%;
+  margin-right: 30%;
   display: inline-block;
   position: relative;
   font-size: 40px;
